@@ -31,13 +31,13 @@
 		return Maputo_Mocambique()
 	
 	def Metas():
-		$BugHunter()
+		$BugHunterDeSucesso()
 		$GrandeDesenvlvedor()
 	
  ```
 
 ## 📅 Hobbies
-- Jogar futebol ;
+- Jogar futebol;
 - Programar ;
 - Editar videos / fotos;
 - Jogar video jogos ;
