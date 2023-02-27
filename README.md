@@ -1,108 +1,86 @@
-<center>
+<h1><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"></h1>
 
-<h3 align="center">
-  Bem Vindo/a ao meu perfil
-</h3>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<h1><img src="https://media.giphy.com/media/1UwHF7R67LzHi/giphy.gif" width="50">  Wassup, I'm <img src="https://media.giphy.com/media/3oEduYRa7k4RYvPYwU/giphy.gif" width="50">avid Falume</h1>
 
-<h1 align="center">Olá 👋, eu sou o Dyllan </h1>
-<h3 align="center">Sou um desenvolvedor full stack <a href="https://pt.wikipedia.org/wiki/Moçambique">Moçambicano</a></h3>
 
-<!-- Redes Sociais -->
 
-<!-- / Redes Sociais -->
+<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
 
-## 💬 Vamos falar sobre
-- Desenvolvimento Web [Frontend] - Html, Css, Javascript, ReactJs
-- Desenvolvimento web [Backend] - PHP, NodeJs, Mysql
-- Desenvolvimento Android - Flutter, React Native, Firebase
-- Desenvolvimento de jogos - GDscript, C#(CSharp)
-- Pentesting ( Penetration Test ) - Python
-- UI/UX - Adobe xD, Paint🤣
-- Design - Illustrator, Photoshop, Corel Draw
-- Edição de video - Sony Vegas, After Effects, Premiere
-- Render 3D - Blender
 
-## 📅 Hobbies
-- Assistir filmes/animes
-- Estudar sobre programação
-- Jogar
-- etc...
+<p><em>Junior Software Developer 
+</em></p>
 
-## 💻 Projetos em trabalho
-- ( CONFIDENCIAL THO 😎)
+![GitHub followers](https://img.shields.io/github/followers/S1CKx?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sickodev.com/)](https://sickodev.com/)
 
-## 📚 Processo de aprendizado
-- React Js/Native🌐
-- Python🐍
+### <img src="https://media2.giphy.com/media/CaiVJuZGvR8HK/giphy.gif?cid=ecf05e47jm9uh48w1my547uji03ourx9zlu8f0bh46ow0du6&rid=giphy.gif&ct=g" width="30"> A little more about me...  
 
-## Linguagens
-<div style="align-items:center; justify-content:center;">
+```javascript
+const davidFalume = {
 
-<!-- 1 -->
-<img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-	
-<!-- 2 -->
-<img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-	
-<!-- 3 -->
-<img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-	
-<!-- 4 -->
-<img align="center" alt="Php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-	
-<!-- 5 -->
-<img align="center" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-	
-<!-- 6 -->
-<img align="center" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-	
-</div>
+    pronouns: "He" | "Him",
 
-## Frameworks
-<div style="align-items:center; justify-content:center;">
+    code: ["Html", "Css", "Javascript", "PHP", "python", "react native/js"],
 
-<!-- 1 -->
-<img align="center" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+    design: ["Photoshop", "Illustrator", "Corel Draw", "XD", "Figma" ]
 
-<!-- 2 -->
-<img align="center" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+    videoEditing: ["After effects", "Sony Vegas"],
 
-<!-- 3 -->
-<img align="center" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+    talkToMeAbout: ["Web Dev", "Tech", "Pentest", "Design"],
 
-<!-- 4 -->
-<img align="center" alt="Bootstrap" width="26px" src="https://cdn.iconfinder.com/stored_data/765532/128/png?token=1670937861-kgVGhYQlFyXeAUxwNuCJ9scN9I05TTy%2FA%2B71QcGKOWg%3D" style="padding-right:10px;" />
+    technologies: {
 
-<!-- 5 -->
-<img align="center" alt="jquery" width="26px" src="https://cdn.iconfinder.com/stored_data/765537/128/png?token=1670937990-lq8%2FJHk2pFWJ2APcTf1s34x7PtFbn53DseVnfeIxrCo%3D" style="padding-right:10px;" />
+        backEnd: {
+            js: ["Php", "Javascript"],
+        },
 
-</div>
+        frontEnd: {
+            js: ["Html","React Js"],
+        },
 
-## Backend
-<div style="align-items:center; justify-content:center;">
+        mobileApp: {
+            native: ["Android Development"]
+        },
 
-<!-- 1 -->
-<img align="center" alt="Firebse" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-	
-<!-- 2 -->
-<img align="center" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+        databases: [ "MySql", "sqlite", "firebase", "Node Js"],
+    },
 
-<!-- 3 -->
-<img align="center" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+    composition:"99% coffee";
+};
+```
 
-</div>
+<h3 align="center"><img align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30">  I Mostly Code in Html & Css</h3>
+ 
 
-## Softwares
-<div style="align-items:center; justify-content:center;">
+```text
+Html 5                                       ████████████████████████░   97.98 %
+
+Css                                          ████████████████████░░░░░   78.76 % 
+
+Javascript                                   ██████████████░░░░░░░░░░░   65.45 % 
+
+PHP                                          ██████████████░░░░░░░░░░░   65.45 % 
+
+Python                                       █████████░░░░░░░░░░░░░░░░   41.48 % 
+
+React Native                                 █████████░░░░░░░░░░░░░░░░   41.48 % 
+
+React Js                                     ██████████░░░░░░░░░░░░░░░   41.48 % 
+```
+
+**Softwares I Used**
+
+
+
+<div style="align-items:center; justify-content:center; display:flex; background-color: white; padding: 20px; border-radius: 10px;" >
 
 <!-- 1 -->
 <img align="center" alt="Godot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;" />
 	
 <!--2 -->
 <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-	
+    
 <!-- 3 -->
 <img align="center" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 	
@@ -110,10 +88,10 @@
 <img align="center" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 	
 <!-- 5 -->
-<img align="center" alt="mysqlworkbench" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" style="padding-right:10px;" />
+<img align="center" alt="mysqlworkbench" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" style="padding-right:10px;" />
 	
 <!-- 6 -->
-<img align="center" alt="pycharm" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" style="padding-right:10px;" />
+<img align="center" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
 <!-- 7 -->
 <img align="center" alt="Photoshop" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" style="padding-right:10px;" />
@@ -140,9 +118,11 @@
 <img align="center" alt="Blender" width="26px" src="https://img.icons8.com/color/512/blender-3d.png" style="padding-right:10px;" />
 
 </div>
+<br>
 
-## Sistemas
-<div style="align-items:center; justify-content:center;">
+**Systems I use Most**
+
+<div style="align-items:center; display: flex;">
 
 <!-- 1 -->
 <img align="center" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -158,16 +138,6 @@
 	
 </div>
 
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/S1CKx/count.svg)
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-</div>
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S1CKx&show_icons=true&theme=gotham" alt="SICKO" />
