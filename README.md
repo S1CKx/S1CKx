@@ -5,7 +5,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
+<div style="margin-top: ;"><img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230"></div>
 
 
 <p><em>Junior Software Developer 
@@ -69,9 +69,9 @@ React Native                                 █████████░░�
 React Js                                     ██████████░░░░░░░░░░░░░░░   41.48 % 
 ```
 
-**Softwares I Used**
+<h3 align="center"><img align="left" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Softwares I Used</h3>
 
-
+<br>
 
 <div style="align-items:center; justify-content:center; display:flex; background-color: white; padding: 20px; border-radius: 10px;" >
 
@@ -118,11 +118,14 @@ React Js                                     ██████████░�
 <img align="center" alt="Blender" width="26px" src="https://img.icons8.com/color/512/blender-3d.png" style="padding-right:10px;" />
 
 </div>
+
 <br>
 
-**Systems I use Most**
+<h3 align="center"><img align="left" src="https://media.giphy.com/media/B2HpiTmvqxaXnkCDSO/giphy.gif" width="30">Systems I use Most</h3>
 
-<div style="align-items:center; display: flex;">
+<br>
+
+<div style="align-items:center; justify-content:center; display:flex; background-color: white; padding: 20px; border-radius: 10px;">
 
 <!-- 1 -->
 <img align="center" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
